@@ -43,7 +43,7 @@ class HomeScreen extends StatelessWidget {
                   SizedBox(width: 16),
                   Expanded(
                     child: Text(
-                        'bayan suspicious links with VirusTotal and check password strength locally.'),
+                        'DDDDDDDDDDDD suspicious links with VirusTotal and check password strength locally.'),
                   ),
                 ],
               ),
